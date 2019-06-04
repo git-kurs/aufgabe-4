@@ -4,5 +4,5 @@ In dieser Zeile soll nichts geändert werden.
 
 ## Kontaktdaten
 
-Name: Max Mustermann
+Name: Max Mustermann  
 Studiengang: Maschinenbau
