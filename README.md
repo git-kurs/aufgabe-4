@@ -4,5 +4,5 @@ In dieser Zeile soll nichts geändert werden.
 
 ## Kontaktdaten
 
-Name: Thomas Kartoffel
-Studiengang: Allgemeine Informatik
+Name: Basti Hopfen  
+Studiengang: Ingenieurswisenschaften
